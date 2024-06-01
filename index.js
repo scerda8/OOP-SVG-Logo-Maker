@@ -77,10 +77,10 @@ if(shapeType === "Triangle"){
 
 const svgContent=`<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg" width="300" height="240">
 ${svgEl}
-  <text x='${x}' y='${y}' 'font-family='Arial' 'font-size='24' fill='${textColor}' text-anchor='middle'>${text}</text>
+  <text x='${x}' y='${y}' font-family="Arial" font-size='24' fill='${textColor}' text-anchor='middle'>${text}</text>
   <svg>`;
 
-fs.writeFileSync('logo.svg', svgContent);
+fs.writeFileSync('example/logo.svg', svgContent);
 console.log("Logo created!");
  }));
  
