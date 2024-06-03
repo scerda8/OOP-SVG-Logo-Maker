@@ -73,9 +73,10 @@ https://app.screencastify.com/v3/watch/qKiVJRfasd5tSXVXOceZ
 
 
 
-![image](https://github.com/scerda8/OOP-SVG-Logo-Maker/assets/159675591/ca0d2e25-6aed-48e4-9d3f-067c2eb5158e)
+
 ![alt text](image.png)
 
+![alt text](image-1.png)
 
 Link to github repo: https://github.com/scerda8/OOP-SVG-Logo-Maker.git
 
