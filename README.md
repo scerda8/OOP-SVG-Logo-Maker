@@ -68,14 +68,13 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
 Demo video:
+https://app.screencastify.com/v3/watch/qKiVJRfasd5tSXVXOceZ
 
 
-
-https://github.com/scerda8/OOP-SVG-Logo-Maker/assets/159675591/42d4ea82-90aa-4642-953a-cf23a7f8bcf9
 
 
 ![image](https://github.com/scerda8/OOP-SVG-Logo-Maker/assets/159675591/ca0d2e25-6aed-48e4-9d3f-067c2eb5158e)
-![image](https://github.com/scerda8/OOP-SVG-Logo-Maker/assets/159675591/8e04a1f3-a364-48b0-8d22-a694aa36b69c)
+![alt text](image.png)
 
 
 Link to github repo: https://github.com/scerda8/OOP-SVG-Logo-Maker.git
