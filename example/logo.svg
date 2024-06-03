@@ -1,4 +1,4 @@
 <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg" width="300" height="240">
-<circle cx="150" cy="150" r="75" fill="Red" />
-  <text x='150' y='120' font-family="Arial" font-size='24' fill='Circle' text-anchor='middle'>Red</text>
+<polygon points="150,50 50,150 250,150" fill="Pink" />
+  <text x='150' y='135' font-family="Arial" font-size='24' fill='Orange' text-anchor='middle'>SAC</text>
   <svg>
