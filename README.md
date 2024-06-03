@@ -71,14 +71,10 @@ Demo video:
 https://app.screencastify.com/v3/watch/qKiVJRfasd5tSXVXOceZ
 
 
+Link to github repo: https://github.com/scerda8/OOP-SVG-Logo-Maker.git
 
 
 
 ![alt text](image.png)
 
 ![alt text](image-1.png)
-
-Link to github repo: https://github.com/scerda8/OOP-SVG-Logo-Maker.git
-
-
-
